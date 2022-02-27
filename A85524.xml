@@ -1,0 +1,532 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Grand memorandum, or, A True and perfect catalogue of the secluded members of the House of Commons, sitting 16. March, 1659, being the day of their dissolution also a perfect catalogue of the Rumpers, some of them sitting with the secluded members the same day  : together with the names of such as were the kings judges, and condemned him to death under their hands and seals ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85524</idno>
+            <idno type="STC">Wing G1503</idno>
+            <idno type="STC">ESTC R211747</idno>
+            <idno type="EEBO-CITATION">38875670</idno>
+            <idno type="OCLC">ocm 38875670</idno>
+            <idno type="VID">152273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2289:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Grand memorandum, or, A True and perfect catalogue of the secluded members of the House of Commons, sitting 16. March, 1659, being the day of their dissolution also a perfect catalogue of the Rumpers, some of them sitting with the secluded members the same day  : together with the names of such as were the kings judges, and condemned him to death under their hands and seals ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, formerly printer to the honorable House of Commons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Society of Antiquaries (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_Parliamentary_members">
+            <pb facs="tcp:152273:1" rendition="simple:additions"/>
+            <head>THE GRAND MEMORANDUM: OR, A true and perfect CATALOGUE of the <hi>Secluded Members</hi> of the <hi>Houſe of Commons,</hi> fitting 16. <hi>March,</hi> 1659. being the day of their <hi>Diſſolution.</hi> Alſo a perfect Catalogue of the RUMPERS, ſome of them ſitting with the <hi>Secluded Members</hi> the ſame day: Together with the Names of ſuch as were the KINGS Judges, and condemned Him to death under their Hands and Seals, marked with an ☞</head>
+            <p>
+               <list>
+                  <item>* CHarls Rich, <hi>now Earl of</hi> Warwick</item>
+                  <item>Charls Carr <hi>now Earl of</hi> Ancram.</item>
+                  <item>Thomas <hi>Viſcount</hi> Wenman.</item>
+               </list>
+               <list>
+                  <head>Baronets.</head>
+                  <item>
+                     <hi>Sir</hi> John Pelham</item>
+                  <item>* <hi>Sir</hi> Richard Houghton</item>
+                  <item>
+                     <hi>Sir</hi> George Booth</item>
+                  <item>* <hi>Sir</hi> John Barrington</item>
+                  <item>* <hi>Sir</hi> Henry Worſley</item>
+                  <item>
+                     <hi>Sir</hi> Harbottle Grimſton</item>
+                  <item>
+                     <hi>Sir</hi> Robert Napper</item>
+                  <item>
+                     <hi>Sir</hi> Gilbert Gerrard</item>
+                  <item>
+                     <hi>Sir</hi> Ralph Aſhton</item>
+                  <item>
+                     <hi>Sir</hi> William Playters</item>
+                  <item>
+                     <hi>Sir</hi> Francis Drake</item>
+                  <item>
+                     <hi>Sir</hi> John Holland</item>
+                  <item>* <hi>Sir</hi> Ambroſe Brown</item>
+                  <item>* <hi>Sir</hi> William Fenwick</item>
+                  <item>
+                     <hi>Sir</hi> William Lewis</item>
+                  <item>
+                     <hi>Sir</hi> Roger Burgoine</item>
+                  <item>
+                     <hi>Sir</hi> John Northcot</item>
+                  <item>
+                     <hi>Sir</hi> William Drake</item>
+                  <item>
+                     <hi>Sir</hi> Norton Knatchbull</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Trevour</item>
+                  <item>
+                     <hi>Sir</hi> John Curſon</item>
+                  <item>* <hi>Sir</hi> Hugh Owen</item>
+                  <item>
+                     <hi>Sir</hi> Humphrey Briggs</item>
+                  <item>* <hi>Sir</hi> Henry Heyman</item>
+                  <item>
+                     <hi>Sir</hi> John Palgrave</item>
+                  <item>* <hi>Sir</hi> Robert Benloſs</item>
+                  <item>
+                     <hi>Sir</hi> John Potts</item>
+                  <item>* <hi>Sir</hi> Humphrey Tufton</item>
+               </list>
+               <list>
+                  <head>Knights.</head>
+                  <item>
+                     <hi>Sir</hi> Beauchampe St. John</item>
+                  <item>
+                     <hi>Sir</hi> Dudley North</item>
+                  <item>
+                     <hi>Sir</hi> Samuel Luke</item>
+                  <item>
+                     <hi>Sir</hi> Walter Earl</item>
+                  <item>* <hi>Sir</hi> Nicholas Martin</item>
+                  <item>* <hi>Sir</hi> John Corbet</item>
+                  <item>* <hi>Sir</hi> William Litton</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Dacres</item>
+                  <item>* <hi>Sir</hi> John Clothworthy</item>
+                  <item>
+                     <hi>Sir</hi> Anthony Irby</item>
+                  <item>
+                     <hi>Sir</hi> John Leigh</item>
+                  <item>
+                     <hi>Sir</hi> Philip Parker</item>
+                  <item>* <hi>Sir</hi> Thomas Parker</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Barnardiſton</item>
+                  <item>
+                     <hi>Sir</hi> John Temple</item>
+                  <item>
+                     <hi>Sir</hi> John Seymour</item>
+                  <item>
+                     <hi>Sir</hi> William Waller</item>
+                  <item>* <hi>Sir</hi> Nevil Poole</item>
+                  <item>
+                     <hi>Sir</hi> Richard Onſlow</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Middleton</item>
+                  <item>* <hi>Sir</hi> Charls Egerton</item>
+                  <item>* <hi>Sir</hi> Martin Liſter</item>
+                  <item>
+                     <hi>Sir</hi> Robert Pye <hi>the Elder</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> John Evelyn <hi>of</hi> Wilts</item>
+                  <item>
+                     <hi>Sir</hi> Edmund Fowel</item>
+                  <item>
+                     <hi>Sir</hi> John Younge</item>
+                  <item>
+                     <hi>Sir</hi> John Evelyn <hi>of</hi> Surrey</item>
+                  <item>
+                     <hi>Sir</hi> Robert Needham</item>
+                  <item>
+                     <hi>Sir</hi> Edward Partridge</item>
+                  <item>
+                     <hi>Sir</hi> Henry Cholmley</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Soam</item>
+                  <item>
+                     <hi>Sir</hi> William Wheeler</item>
+                  <item>
+                     <hi>Sir</hi> Francis Hollys</item>
+               </list>
+               <list>
+                  <head>Eſquires.</head>
+                  <item>James Herbert</item>
+                  <item>Denzil Hollys</item>
+                  <item>* William Pierrepont</item>
+                  <item>George Mountague</item>
+                  <item>James Fenys</item>
+                  <item>* Nathaniel Fenys</item>
+                  <item>John Fenys</item>
+                  <item>Arthur Anneſley</item>
+                  <item>Edward Mountague, <hi>General at Sea</hi>
+                  </item>
+                  <item>John Crew</item>
+                  <item>Richard Knightley</item>
+                  <item>Richard Winwood</item>
+                  <item>Robert Packer</item>
+                  <item>* Hugh Boſcowen</item>
+                  <item>* Thomas Gewen</item>
+                  <item>Thomas Povey</item>
+                  <item>* John Thomas</item>
+                  <item>John Thynn</item>
+                  <item>* James Cambel</item>
+                  <item>* Francis Buller</item>
+                  <item>Leonel Copley</item>
+                  <item>* Richard Eriſey</item>
+                  <item>Thomas Dacres</item>
+                  <item>Simon Snow</item>
+                  <item>Thomas Moore <hi>of</hi> Ludlow</item>
+                  <item>Richard Tolſon</item>
+                  <item>Henry Lucas</item>
+                  <item>Nathaniel Bacon</item>
+                  <item>Francis Bacon</item>
+                  <item>Hugh Potter</item>
+                  <item>Edward Leigh</item>
+                  <item>* Edmund Fowel</item>
+                  <item>Elize Crimes</item>
+                  <item>* Thomas Ceeley</item>
+                  <item>* Henry Arthington</item>
+                  <item>Charls Pymm</item>
+                  <item>* John Sayer</item>
+                  <item>Richard Jenins</item>
+                  <item>Edward Wingate</item>
+                  <item>Edward Harley</item>
+                  <item>Nathaniel Stevens</item>
+                  <item>Edward Stevens</item>
+                  <item>John Stevens</item>
+                  <item>Bennet Hoskins</item>
+                  <item>John Birche</item>
+                  <item>John Boys</item>
+                  <item>William Wrey</item>
+                  <item>Edward Roſſeter</item>
+                  <item>* Thomas Hatcher</item>
+                  <item>* Henry Pelham</item>
+                  <item>Thomas Hunt</item>
+                  <item>Robert Clives</item>
+                  <item>* John Holcroft</item>
+                  <item>* Richard Shutleworth</item>
+                  <item>William Bell</item>
+                  <item>Samuel Vaſſal</item>
+                  <item>John Spilman</item>
+                  <item>Robert Scawen</item>
+                  <item>John Doyly</item>
+                  <item>John Nixon</item>
+                  <item>* Francis Drake</item>
+                  <item>William Aiſcough</item>
+                  <item>Edward Biſhe</item>
+                  <item>George Evelyn</item>
+                  <item>William Ouldfield</item>
+                  <item>John Bowyer</item>
+                  <item>John Swynfen</item>
+                  <item>Richard Whitehead</item>
+                  <item>John Bulkley</item>
+                  <item>* John Button</item>
+                  <item>George Horner</item>
+                  <item>Thomas Grove</item>
+                  <item>Edward Exton</item>
+                  <item>William Maurice</item>
+                  <item>* William Carent</item>
+                  <item>Henry Peck</item>
+                  <item>* Hall Ravenſcroft</item>
+                  <item>* Thomas Middleton</item>
+                  <item>Alexander Bence</item>
+                  <item>* Maurice Barrow</item>
+                  <item>Thomas Hodges</item>
+                  <item>* Henry Lawrence</item>
+                  <item>Alexander Thiſtlethwaite</item>
+                  <item>Thomas Moor</item>
+                  <item>Edward Bainton</item>
+                  <item>Henry Hungerford</item>
+                  <item>Walter Long</item>
+                  <item>Edward Poole</item>
+                  <item>* Edward Maſſey</item>
+                  <item>John Nelthropp</item>
+                  <item>Henry Oxenden</item>
+                  <item>Samuel Gott</item>
+                  <item>Francis Gerrard</item>
+                  <item>John Trevour</item>
+                  <item>Richard Wynn</item>
+                  <item>Richard Brown</item>
+                  <item>Arthur Onſlowe</item>
+                  <item>William Foxwiſt</item>
+                  <item>John Lloyd</item>
+                  <item>William Jones</item>
+                  <item>Edward Vaughan</item>
+                  <item>Robert Harley</item>
+                  <item>William Strode <hi>of</hi> Somerſet</item>
+                  <item>William Prynn</item>
+                  <item>Robert Shapcott</item>
+                  <item>Peregrine Hobby</item>
+                  <item>John Glynn <hi>Serjeant at Law.</hi>
+                  </item>
+                  <item>John Maynard <hi>Serjeant at Law.</hi>
+                  </item>
+                  <item>Thomas Twiſden <hi>Serjeant at Law.</hi>
+                  </item>
+                  <item>Thomas Waller <hi>Serjeant at Law.</hi>
+                  </item>
+                  <item>John Bond <hi>Doctor of Law.</hi>
+                  </item>
+                  <item>Capel Luckin</item>
+                  <item>Samuel Gardiner</item>
+                  <item>(176.).</item>
+               </list>
+            </p>
+            <p>
+               <hi>All thoſe that are noted with a Star * were abſent, either not having notice of the ſitting of their Fellow Members, or by Sickneſs were diſabled to Travel to</hi> London.</p>
+         </div>
+         <div type="list_of_Parliamentary_members">
+            <head>A True and Perfect Catalogue of the RUMPERS, ſome of them ſitting with the Secluded Members, on the Sixteenth of <hi>March,</hi> 1659. The day of the Diſſolving of the PARLIAMENT.</head>
+            <p>
+               <list>
+                  <item>PHilip Herbert <hi>Earl of</hi> Pem<g ref="char:EOLhyphen"/>broke.</item>
+                  <item>☞ * Philip <hi>Viſcount</hi> Liſle</item>
+                  <item>☞ William <hi>Viſcount</hi> Mounſon</item>
+               </list>
+               <list>
+                  <head>Baronets.</head>
+                  <item>
+                     <hi>Sir</hi> Arthur Heſilrigge</item>
+                  <item>☞ <hi>Sir</hi> William Brereton</item>
+                  <item>
+                     <hi>Sir</hi> Richard Lucy</item>
+                  <item>* <hi>Sir</hi> Francis Ruſſel</item>
+                  <item>☞ * <hi>Sir</hi> Michael Leveſey</item>
+                  <item>* <hi>Sir</hi> William Strickland</item>
+                  <item>☞ * <hi>Sir</hi> James Harrington</item>
+                  <item>
+                     <hi>Sir</hi> Gilbert Pickering</item>
+                  <item>
+                     <hi>Sir</hi> William Ellis</item>
+                  <item>
+                     <hi>Sir</hi> John Lenthal</item>
+               </list>
+               <list>
+                  <head>Knights.</head>
+                  <item>
+                     <hi>Sir</hi> Thomas Wroth</item>
+                  <item>* <hi>Sir</hi> Thomas Walſingham</item>
+                  <item>☞ <hi>Sir</hi> Henry Mildmay</item>
+                  <item>
+                     <hi>Sir</hi> John Trevour</item>
+                  <item>☞ <hi>Sir</hi> John Bourcher</item>
+                  <item>☞ <hi>Sir</hi> Peter Wentworth</item>
+                  <item>☞ <hi>Sir</hi> George Fleetwood</item>
+                  <item>☞ <hi>Sir</hi> Thomas Atkins <hi>Alderman of</hi> London.</item>
+                  <item>
+                     <hi>Sir</hi> Robert Goodwin</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Widerington</item>
+                  <item>* <hi>Sir</hi> Bolſtrode Whitlock</item>
+                  <item>Oliver St. John <hi>Serjeant at Law.</hi>
+                  </item>
+                  <item>Roger Hill <hi>Serjeant at Law</hi>
+                  </item>
+                  <item>John Wilde <hi>Serjeant at Law</hi>
+                  </item>
+                  <item>* Robert Nicholas <hi>Serjeant at Law.</hi>
+                  </item>
+                  <item>☞ Francis Thorpe <hi>Serjeant at Law</hi>
+                  </item>
+                  <item>Eraſmus Earle <hi>Serjeant at Law</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Eſquires.</head>
+                  <item>* Charls Fleetwood</item>
+                  <item>☞ * Edmund Ludlow</item>
+                  <item>☞ Philip Skippon</item>
+                  <item>☞ John Liſle <hi>of the High Court of Juſtice.</hi>
+                  </item>
+                  <item>☞ * John Jones</item>
+                  <item>* Thomas Crompton</item>
+                  <item>* Chriſtopher Martin</item>
+                  <item>☞ Henry Smith</item>
+                  <item>Michael Oldſworth</item>
+                  <item>☞ * John Gourdon</item>
+                  <item>Brampton Gourdon</item>
+                  <item>John Fielder</item>
+                  <item>☞ John Hutchenſon</item>
+                  <item>Thomas Pury <hi>ſenior</hi>
+                  </item>
+                  <item>Thomas Pury <hi>junior</hi>
+                  </item>
+                  <item>☞ Thomas Chaloner</item>
+                  <item>William Lemman</item>
+                  <item>☞ * Edmund Harvey</item>
+                  <item>Edward Hareby</item>
+                  <item>☞ Henry Martin</item>
+                  <item>☞ James Temple</item>
+                  <item>Peter Temple</item>
+                  <item>Benjamine Weſton</item>
+                  <item>☞ * William Heveningham</item>
+                  <item>John Barker</item>
+                  <item>George Thompſon</item>
+                  <item>Luke Robinſon</item>
+                  <item>☞ Gilbert Millington</item>
+                  <item>* John Anlaby</item>
+                  <item>☞ Auguſtine Garland</item>
+                  <item>Robert Andrews</item>
+                  <item>Thomas Liſter</item>
+                  <item>John Trenchard</item>
+                  <item>☞ Daniel Blagrave</item>
+                  <item>Nathaniel Rich</item>
+                  <item>* Nicholas Gould</item>
+                  <item>☞ * John Carew</item>
+                  <item>☞ Francis Laſſels</item>
+                  <item>☞ Miles Corbet</item>
+                  <item>Edmund Dunch</item>
+                  <item>* Algernon Sidney</item>
+                  <item>John Lowry</item>
+                  <item>☞ William Say</item>
+                  <item>* Henry Darley</item>
+                  <item>Richard Darley</item>
+                  <item>Nicholas Letchmore</item>
+                  <item>John Dormer</item>
+                  <item>☞ * William Cawley</item>
+                  <item>John Nut</item>
+                  <item>☞ * Cornelius Holland</item>
+                  <item>☞ Richard Ingoldsby</item>
+                  <item>Edmund Wilde</item>
+                  <item>☞ John Corbet</item>
+                  <item>James Aſhe</item>
+                  <item>* John Goodwin</item>
+                  <item>☞ Simon Mayne</item>
+                  <item>☞ Thomas Scot</item>
+                  <item>☞ Thomas Boone</item>
+                  <item>Edmund Weſt</item>
+                  <item>Robert Reynolds</item>
+                  <item>William White</item>
+                  <item>Auguſtine Skinner</item>
+                  <item>John Dove</item>
+                  <item>☞ Nicholas Love</item>
+                  <item>Philip Smith</item>
+                  <item>Valentine Wanton</item>
+                  <item>Robert Cecil</item>
+                  <item>☞ Iſaac Pennington, <hi>another Al<g ref="char:EOLhyphen"/>derman of</hi> London.</item>
+                  <item>John Fagg</item>
+                  <item>William Hay</item>
+                  <item>* Nathaniel Hallowes</item>
+                  <item>☞ Thomas Waite</item>
+                  <item>* Walter Strickland</item>
+                  <item>* John Pyne</item>
+                  <item>* Gervas Pigott</item>
+                  <item>Robert Bennet</item>
+                  <item>* Robert Wallop</item>
+                  <item>John Weaver</item>
+                  <item>Herbert Morley</item>
+                  <item>* John Bingham</item>
+                  <item>☞ John Dixwel</item>
+                  <item>James Nelthropp</item>
+                  <item>☞ John Downes</item>
+                  <item>Robert Brewſter</item>
+                  <item>☞* James Chaloner</item>
+               </list>
+            </p>
+            <p>
+               <hi>Beſides on the Commonwealths account there ſate theſe following Perſons, who had as much right to ſit in the Con<g ref="char:EOLhyphen"/>clave of</hi> Rome, <hi>as in the Parlia<g ref="char:EOLhyphen"/>ment of</hi> England, <hi>being Elected after the death of the King,</hi> viz.
+<list>
+                  <item>* William <hi>Earl of</hi> Salisbury</item>
+                  <item>* Henry Nevil</item>
+                  <item>Carew Rawleigh</item>
+                  <item>William Eyres</item>
+                  <item>Philip Jones</item>
+                  <item>Thomas Birch.</item>
+               </list>
+            </p>
+            <p>
+               <hi>All thoſe that are marked with the Hand, were the Kings Judges, and condemned him to Death under their Hands and Seales; All thoſe that are marked with the Star, are ſuch Members as did not ſit after the Secluded Members admiſsion into the Houſe.</hi>
+            </p>
+         </div>
+         <div type="Parliamentary_order">
+            <p>THis is publiſhed by Command of a Member of the Long Parliament, to prevent miſtakes, and that the people of this Nation may ſee and know who have been their Oppreſſors, and the fatal Betrayers of their Liberties, by erecting High Courts of Juſtice, and acting many other Enormities <hi>&amp;c.</hi> And that they may be the better guided in their FUTURE ELECTIONS.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for EDWARD HUSBANDS, formerly Printer to the Honorable Houſe of Commons, and ſold at the Golden-Dragon in <hi>Fleetſtreet,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
